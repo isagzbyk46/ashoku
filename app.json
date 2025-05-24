@@ -8,7 +8,7 @@
         "python"
     ],
     "website": "https://github.com/AshokShau",
-    "repository": "https://github.com/AshokShau/TgMusicBot",
+    "repository": "https://github.com/isagzbyk46/ashoku",
     "logo": "https://te.legra.ph/file/6f99c49bdb4679acad717.jpg",
     "stack": "heroku-24",
     "image": "heroku/python",
@@ -80,7 +80,7 @@
         },
         "OWNER_ID": {
             "description": "Your Telegram User ID, get it from https://t.me/GuardxRobot",
-            "value": "5938660179",
+            "value": "7717429408",
             "required": true
         },
         "MONGO_URI": {
@@ -120,12 +120,12 @@
         },
         "SUPPORT_GROUP": {
             "description": "Telegram Group Link",
-            "value": "https://t.me/GuardxSupport",
+            "value": "https://t.me/gitaristmusic12",
             "required": false
         },
         "SUPPORT_CHANNEL": {
             "description": "Telegram Channel Link",
-            "value": "https://t.me/FallenProjects",
+            "value": "https://t.me/dertkonagi",
             "required": false
         },
         "AUTO_LEAVE": {
@@ -140,7 +140,7 @@
         },
         "DEVS": {
             "description": "User ID's of developers",
-            "value": "5938660179",
+            "value": "7717429408",
             "required": false
         }
     },
